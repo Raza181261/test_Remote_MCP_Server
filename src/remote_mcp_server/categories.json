@@ -1,0 +1,11 @@
+{
+    "food": ["groceries", "restaurants", "coffee", "snacks"],
+    "transportation": ["gas", "public transit", "rideshare", "parking"],
+    "utilities": ["electricity", "water", "internet", "phone"],
+    "entertainment": ["movies", "concerts", "games", "subscriptions"],
+    "health": ["doctor", "dentist", "medications", "gym"],
+    "personal": ["clothing", "haircuts", "hobbies", "gifts"],
+    "education": ["tuition", "books", "courses", "supplies"],
+    "travel": ["flights", "hotels", "car rentals", "activities"],
+    "miscellaneous": ["other", "unexpected expenses"]
+}
